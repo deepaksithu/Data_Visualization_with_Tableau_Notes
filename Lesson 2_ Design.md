@@ -1,4 +1,4 @@
-﻿# Lesson 2: Design
+# :triangular_ruler: Lesson 2: Design
 
 **2. Lesson Overview**
 six lessons for communicating with data:
