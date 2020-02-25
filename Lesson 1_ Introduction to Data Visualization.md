@@ -1,4 +1,4 @@
-﻿# Lesson 1: Introduction to Data Visualization
+# :notebook: Lesson 1: Introduction to Data Visualization
 **3. Motivation for Data Visualization**
 - summary statistics like mean and standard deviation can be useful, but can also be misleading if ignoring other aspects of the distribution, such as with Anscombe's Quartet
 
