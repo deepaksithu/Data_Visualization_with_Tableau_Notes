@@ -7,7 +7,6 @@ _Project Title is a template for a data science project README. The 'what' of th
 - [Features](#features)
 - [Issues](#issues) 
 - [Contribute](#contribute) 
-- [Credits](#credits)
 - [Contact](#contact)
 - [License](#license)
 
@@ -47,9 +46,6 @@ _Finally, complete this section with another, more contextualized explanation of
 ## Contribute
 Any bugs, requests, feedback, pull requests etc. are welcome! For any major changes, please open an issue first to discuss your ideas.
 
-## Credits
-- _here's where any people who have contributed to this project are mentioned_
-- _as well as any other sources which deserve credit_
 
 ## Contact
 You can get in touch with me on LinkedIn [![LinkedIn Link](https://img.shields.io/badge/Connect-deepaksithu-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
