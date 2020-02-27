@@ -1,4 +1,4 @@
-# :clipboard: Data Visualization with Tableau Notes -  [![Binder](https://mybinder.org/badge_logo.svg)](https://www.google.com)
+# :bar_chart::notebook::bar_chart: Data Visualization with Tableau Notes -  [![Binder](https://mybinder.org/badge_logo.svg)](https://www.google.com)
 _Project Title is a template for a data science project README. The 'what' of the project is concisely described here._ 
 
 ## Table of Contents
