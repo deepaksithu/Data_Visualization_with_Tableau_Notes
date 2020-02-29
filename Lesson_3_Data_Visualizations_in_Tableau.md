@@ -1,6 +1,9 @@
 # Lesson 3: Data Visualizations in Tableau
 
 **4. Text: Outline of Topics Covered**
+- asdf
+- asdf
+- asdf
 
 **Ryan Sleeper Article: Tableau 201: How to Make Small Multiples**
 
