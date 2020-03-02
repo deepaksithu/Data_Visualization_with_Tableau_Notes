@@ -1,9 +1,17 @@
 # Lesson 3: Data Visualizations in Tableau
 
 **4. Text: Outline of Topics Covered**
-- asdf
-- asdf
-- asdf
+1. Connecting to Data
+2. Combinging Data
+3. Worksheets
+4. Aggregations
+5. Hierarchies
+6. Marks and Filters
+7. Show Me
+8. Small Multiples and Dual Axis
+9. Groups and Sets
+10. Calculated Fields
+11. Table Calculations
 
 **Ryan Sleeper Article: Tableau 201: How to Make Small Multiples**
 
