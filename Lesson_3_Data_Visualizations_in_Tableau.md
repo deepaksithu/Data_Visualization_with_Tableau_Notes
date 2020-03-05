@@ -25,6 +25,9 @@
 - when joining sheets, click the join icon to confirm that the join is using the correct column from each sheet
 
 **10. Text: Combining Data Recap**
+- can either do a union or a join
+- you can make a union by dragging sheet2 below sheet1, this appends sheet2 to the bottom of sheet1
+- you can join by dragging sheet2 into the top panel
 
 **12. Video: What Can You Create in Tableau?**
 
