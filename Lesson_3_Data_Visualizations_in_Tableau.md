@@ -22,6 +22,7 @@
 - you can preview a table by clicking the table icon when hovering over aa table in the left column
 
 **9. Video: Combining Data**
+- when joining sheets, click the join icon to confirm that the join is using the correct column from each sheet
 
 **10. Text: Combining Data Recap**
 
