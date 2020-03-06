@@ -30,6 +30,9 @@
 - you can join by dragging sheet2 into the top panel
 
 **12. Video: What Can You Create in Tableau?**
+- **worksheets** - one visualization
+- **dashboards** - several visualizations at once
+- **stories** - a combination of worksheetsa dn dashboards which guide the viewer through the data
 
 **14. Text: Worksheets**
 
