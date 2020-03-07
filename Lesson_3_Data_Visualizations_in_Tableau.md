@@ -56,4 +56,14 @@
 
 **31. Video: Small Multiples and Dual Axis**
 
-**Video: Groups and Sets**
+**36. Video: Groups and Sets**
+
+**37. Text: Groups and Sets**
+
+**39. Quiz: Sets**
+
+**40. Video: Calculated Fields**
+
+**41. Text: Calculated Fields**
+
+**43. Video: Table Calculations**
