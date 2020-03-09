@@ -35,6 +35,9 @@
 - **stories** - a combination of worksheetsa dn dashboards which guide the viewer through the data
 
 **14. Text: Worksheets**
+- discrete data is blue
+- continuous data is green
+- can convert continuous data to distrete in R-click
 
 **15. Quiz: Worksheets**
 
