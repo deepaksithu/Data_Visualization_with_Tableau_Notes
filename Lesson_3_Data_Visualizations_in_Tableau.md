@@ -40,6 +40,7 @@
 - can convert continuous data to distrete in R-click
 
 **15. Quiz: Worksheets**
+- Tableau calls categorical data types dimensions and quantitative data types Measures
 
 **17. Video: Aggregations**
 
