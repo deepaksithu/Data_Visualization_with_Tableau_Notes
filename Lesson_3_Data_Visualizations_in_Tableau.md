@@ -43,6 +43,9 @@
 - Tableau calls categorical data types dimensions and quantitative data types Measures
 
 **17. Video: Aggregations**
+two ways to explore data:
+- jump in and start exploring
+- ask questions and try to answer them
 
 **18. Text: Aggregations**
 
