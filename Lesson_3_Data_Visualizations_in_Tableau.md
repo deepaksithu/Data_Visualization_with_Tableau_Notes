@@ -48,6 +48,8 @@ two ways to explore data:
 - ask questions and try to answer them
 
 **18. Text: Aggregations**
+- right click to change aggregations like SUM(value) to other types of aggregations like averate, median, count, etc.
+- can increase granularity (get more points on the graph) by dragging a value into the "DETAIL" box in the marks card
 
 **20. Video: Hierarchies**
 
