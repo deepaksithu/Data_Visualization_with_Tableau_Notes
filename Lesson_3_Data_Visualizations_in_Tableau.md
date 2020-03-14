@@ -52,6 +52,12 @@ two ways to explore data:
 - can increase granularity (get more points on the graph) by dragging a value into the "DETAIL" box in the marks card
 
 **20. Video: Hierarchies**
+- hierarchies give you the ability to look deeper into data
+- Tableau automatically makes hierarchies for time-based data
+- click the plus symbol by a time-data name to split it out
+- changing dates to continuous can be more useful that looking at dates as discrete data types
+- you can create your own categories for hierarchies too
+- create a subcategory by dragging the subcategory onto the category in the left column
 
 **21. Text: Hierarchies**
 
