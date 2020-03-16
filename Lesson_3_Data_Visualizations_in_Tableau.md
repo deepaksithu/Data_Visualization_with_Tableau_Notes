@@ -60,6 +60,9 @@ two ways to explore data:
 - create a subcategory by dragging the subcategory onto the category in the left column
 
 **21. Text: Hierarchies**
+- dates may not show up correctly if discrete, because Tableau will aggregate values over months (which may not be what you want)
+- to fix this, R-click the value in the left bar and "convert to discrete/continuous"
+- you can also create a hierarchy by right clicking a value, then "hierarchy > create hierarchy"
 
 **23. Video: Marks and Filters**
 
