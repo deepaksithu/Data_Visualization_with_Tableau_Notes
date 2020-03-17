@@ -65,23 +65,71 @@ two ways to explore data:
 - you can also create a hierarchy by right clicking a value, then "hierarchy > create hierarchy"
 
 **23. Video: Marks and Filters**
+- filter by year by dragging the date variable into the "filters" box
+- right click the filter and select the "show filter" option to show the options on the right column
+- sort columns using the "sort" icon on the top toolbar
+- filter in the right column by right clicking and clicking "keep only"
+- add info into the hover-over menu by dragging into the "tooltip" box
 
 **26. Text: Marks and Filters II**
+- can CTRL+click in graph to exclude or keep only certain categories
 
 **27. Quiz: Marks and Filters II**
+- **double encoding** - using two encodings like length and color for one variable to draw moving eyes
 
 **28. Video: Show Me**
+- **show-me** - a quick way to start a graph
+- CTRL+select several variables and see highlighted graphs in "show me"
 
 **31. Video: Small Multiples and Dual Axis**
+- create small multiples (aka facet grids) by dragging addiitonal values into the columns or rows
+- **dual axis** - used to compare two variables on one plot
+- right click the variable and select "dual axis" to put onto one plot
+- can also create this by dragging variable onto the right wall of plot area
 
 **36. Video: Groups and Sets**
+- two ways to group data in tablea: groups and sets
+- drag a box over cluster of data to look at
+  - hover over, or right-click a data point
+  - create a group from here with link icon (paperclip)
+    - click select group and rename
+  - can then use this group in other sheets
+- sets - sets are dynamic, a set changes when data is updated
+- groups are static, unlike sets, where no new data can join in a group
+- create a set - R-click variable > create > set > condition tab > by field and then you can do something like profit, average, less than, zero
+
 
 **37. Text: Groups and Sets**
+- groups are typically created by selecting multiple data points in the view
+- R-click after selecting and clip icon for group
+- then rename group in the right column
+- once the group is created, can use it in other sheets
+
+again:
+- groups are static
+- sets are dynamic
 
 **39. Quiz: Sets**
+- create a set: R-click dimension in L-column > create > set
+- then condition tab > by field and set conditions
+- with more than two options, instead of groups or sets use a calculated field
 
 **40. Video: Calculated Fields**
+- calculated fields- create new fields by counting the underlying data
+- to create calculated fields - r-click dimension / variable in left column > create > calculated field
+- ex. create "good" and "bad" calculated fields
+`IF SUM([sales]) > 10000 THEN "Good" ELSE "Bad"`
+- do `IF`, `THEN` and `ELSE` statements
+- shorthand way to make two calculated fields based on whether a condition is met:
+`IFF(conditions, if true, if false)`
+ex.
+`IFF(SUM([Sales]) > 10000, "Good", "Bad")`
+- can also do calculations involving strings
 
 **41. Text: Calculated Fields**
+- table calculations - calculations that are created from the results of a visualization
+- to create - Rclick variable in rows or columsn (and maybe in marks/filters), and select "add table calculation" or "quick table calculation"
 
-**43. Video: Table Calculations**
+**Dual-Scaled Axes in Graphs by Stephen Few**
+- never use a dual-scaled axis, there are always better options
+- improve use of hierarchies and filters*****
