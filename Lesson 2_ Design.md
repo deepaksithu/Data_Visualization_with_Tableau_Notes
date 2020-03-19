@@ -1,3 +1,4 @@
+
 # :triangular_ruler: Lesson 2: Design
 
 **2. Lesson Overview**
@@ -10,10 +11,11 @@ six lessons for communicating with data:
 6. tell a story
 
 **3. Exploratory vs. Explanatory Analyses**
-explanatory visualizations:
-- highlight an insight
-- are surrounded by a story
-- ask a question which is answered by the insight in the visualization
+
+**explanatory visualizations**:
+	- highlight an insight
+	- are surrounded by a story
+	- ask a question which is answered by the insight in the visualization
 
 **5. What Makes a Bad Visual**
 - misleading
@@ -32,11 +34,13 @@ explanatory visualizations:
 - ornamented chart axes
 
 **8. Data Ink Ratio**
+
 **data-ink ratio** - the amount of ink used to describe data divided by the amount of ink used to describe everything else
 - limiting chart junk increases the data-ink ratio
 - don't use more than two colors unless there is a specific value being encoded in color
 
 **9. Design Integrity**
+
 **lie factor** - size of effect shown in graphic divided by the size of effect shown in data
 - any lie factor not equal to one suggests a misleading graphic
 
@@ -60,6 +64,7 @@ make good visuals:
 - maintain data integrity
 
 **18. Tell a Story**
+
 when presenting your data:
 - start with a question
 - repetition can be good
