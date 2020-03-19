@@ -13,9 +13,9 @@ six lessons for communicating with data:
 **3. Exploratory vs. Explanatory Analyses**
 
 **explanatory visualizations**:
-	- highlight an insight
-	- are surrounded by a story
-	- ask a question which is answered by the insight in the visualization
+- highlight an insight
+- are surrounded by a story
+- ask a question which is answered by the insight in the visualization
 
 **5. What Makes a Bad Visual**
 - misleading
